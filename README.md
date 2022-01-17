@@ -454,7 +454,7 @@ export default FooterArrow;
  - git remote add origin-cmsinreact https://github.com/stlouis-mo-developers/cmsinreact.git
  - git remote -v
  - git pull origin-cmsinreact main --allow-unrelated-histories
- - git push origin-cmsinreact main
+ - git push origin-cmsinreact
 
 ## Tips
 
